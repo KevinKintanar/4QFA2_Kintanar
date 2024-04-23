@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+table, td, col {
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+    margin-bottom: 2vh;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+
+input {
+   display: inline-block;
+   text-align: center;
+}
+
+button {
+    margin-left: 41.75vw;
+}
